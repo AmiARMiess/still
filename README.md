@@ -16,7 +16,6 @@ This project is built with plain HTML, CSS, and JavaScript. There is no framewor
 - [Responsive behavior and accessibility](#responsive-behavior-and-accessibility)
 - [Assets and external services](#assets-and-external-services)
 - [Limitations](#limitations)
-- [Screenshot](#screenshot)
 
 ## Highlights
 
